@@ -36,15 +36,6 @@ messagebox.showinfo("Avertisment", "Judetele sunt scrise fara diacritice si fara
 nr_total_judete=len(judete_list)
 
 lista_obiecte=[]
-# for i in range(0, nr_total_judete): #VECHI
-#     ceva_judet = Judet()
-#     ceva_judet.nume_judet=judete_list[i]
-#     ceva_judet.numar_judet=i+1
-#     ceva_judet.locatie=judete_dict[judete_list[i]]
-#
-#     lista_obiecte.append(ceva_judet)
-#     ceva_judet.write_number()
-#
 
 lista_numere=[] #NOU
 for i in range(nr_total_judete):
