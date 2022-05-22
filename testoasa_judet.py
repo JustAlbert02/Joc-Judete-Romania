@@ -10,7 +10,7 @@ class Judet(Turtle):
 
     def now_color(self):
         self.clear()
-        self.color("magenta")
+        self.color("orange")
         self.write(self.numar_judet, align="center")
 
     def write_number(self):
