@@ -2,7 +2,4 @@ Jocul este un quiz de geografie care constă în identificarea județelor din Ro
 
 Proiectul a fost realizat folosind limbajul python.
 
-Librarii utilizate:
--tkinter
--pandas
--turtle
+Librarii utilizate: pandas,turtle,tkinter
